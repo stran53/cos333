@@ -1,4 +1,4 @@
 #SuperTonic
-##Amazing.
+####Amazing.
 
-###Steven Tran, Mike Mulshine, Anna Ren, Delany GM
+####Steven Tran, Mike Mulshine, Anna Ren, Delaney GM
